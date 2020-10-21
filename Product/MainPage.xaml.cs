@@ -32,7 +32,7 @@ namespace Product
         {
             this.InitializeComponent();
             Products = new List<productClass>();
-            Products.Add(new productClass { ProductPath = "Book" });
+            Products.Add(new productClass { ProductPath = "123"});
             Products.Add(new productClass { ProductPath = "abc" });
             //Products.Add(new productClass { ProductPath = "Assets/book3.png" });
             //Products.Add(new productClass { ProductPath = "Assets/book4.jpg" });
@@ -44,7 +44,7 @@ namespace Product
 
         private void NewContactButton_Click(object sender, RoutedEventArgs e)
         {
-            string title = ((productClass)ImageCombox.SelectedValue).ProductPath;
+            string title = ((productClass)TitleCombox.SelectedValue).ProductPath;
             Contacts.Add(new Contact
             {
                 Name = NameTextBox.Text,
@@ -56,7 +56,7 @@ namespace Product
             NameTextBox.Text = "";
             PriceTextBox.Text = "";
             QtyTextBox.Text = "";
-            TitleTextBox.Text = "";
+            //TitleTextBox.Text = "";
 
             NameTextBox.Focus(FocusState.Programmatic);
         }

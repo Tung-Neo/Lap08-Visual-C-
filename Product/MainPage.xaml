@@ -36,14 +36,11 @@
 
             <ComboBox Name="TitleCombox" Height="50" Width="100" Grid.Row="3"
                       Grid.Column="1" ItemsSource="{x:Bind Products}" Margin="10">
-                <ComboBox Name="ImageCombox" Height="50" Width="100" Grid.Row="3"
-                      Grid.Column="1" ItemsSource="{x:Bind Products}" Margin="10">
-                    <ComboBox.ItemTemplate>
-                        <DataTemplate x:DataType="data:productClass">
-                            <Image Source="{x:Bind ProductPath}" Width="40" Height="40"/>
-                        </DataTemplate>
-                    </ComboBox.ItemTemplate>
-                </ComboBox>
+                <ComboBox.ItemTemplate>
+                    <DataTemplate x:DataType="data:productClass">
+                        <Image Source="{x:Bind ProductPath}" Width="40" Height="40"/>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
             </ComboBox>
             
             <Button Grid.Row="4" Grid.Column="1" Name="NewContactButton"
