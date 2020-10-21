@@ -1,0 +1,15 @@
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\Product.csprojAssemblyReference.cache
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\App.g.i.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\App.g.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\ContactTemplate.g.i.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\ContactTemplate.g.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\MainPage.g.i.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\MainPage.g.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\App.xaml
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\ContactTemplate.xaml
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\MainPage.xaml
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\App.xbf
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\ContactTemplate.xbf
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\MainPage.xbf
+D:\Visual C#\Lap08-Visual-C-\Product\obj\x86\Debug\XamlSaveStateFile.xml
